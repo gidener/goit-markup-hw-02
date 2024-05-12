@@ -80,7 +80,7 @@ ul {
     margin-right: 0;
 }
 
-.header-menu .list .etiket{
+.header-menu .list .ticket{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -89,8 +89,8 @@ ul {
     letter-spacing: 0.02em;
     padding: 24px 0;
 }
-.header-menu .list .etiket:hover,
-.header-menu .list .etiket:focus{
+.header-menu .list .ticket:hover,
+.header-menu .list .ticket:focus{
     color: #404bbf;
 }
 .address{
@@ -105,13 +105,13 @@ ul {
 .address-link .list:last-child{
     margin-right: 0;
 }
-.address-link .list .etiket{
+.address-link .list .ticket{
     color: #434455;
     letter-spacing: 0.02em;
     line-height: 1.5;
 }
-.address-link .list .etiket:hover,
-.address-link .list .etiket:focus{
+.address-link .list .ticket:hover,
+.address-link .list .ticket:focus{
     color: #404BBF;
 }
 
